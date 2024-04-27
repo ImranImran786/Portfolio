@@ -1,5 +1,6 @@
 import React from "react"
 import "./App.css"
+import Skills from "./components/Navbar/Skills/Skills" 
 
 import { Navbar } from "./components/Navbar/Navbar"
 // import Hero from "./components/Navbar/Hero";
@@ -11,6 +12,7 @@ const App = () => {
       <Navbar/>
       <div className="container">
         <Hero/>
+        <Skills/>
       </div>
     </>
   )
