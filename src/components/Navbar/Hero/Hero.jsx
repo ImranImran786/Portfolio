@@ -2,9 +2,16 @@ import React from 'react'
 import "./Hero.css"
 
 const Hero = () => {
-  return (
-    <div>Hero</div>
-  )
+  return <section className="hero-container">
+    <div className="hero-content">
+        <h2>Building Digital Experiences That Inspire</h2>
+        <p>
+            passionate Fontend Developer | Transforming Ideas into Seamless 
+            and Visually Stunning Web Solutions
+        </p>
+    </div>
+    </section>
+  
 }
 
 export default Hero
