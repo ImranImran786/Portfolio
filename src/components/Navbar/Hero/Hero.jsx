@@ -11,9 +11,9 @@ const Hero = () => {
         </p>
     </div>
 
-    <div>
+    <div className="hero-img">
         <div>
-            <div>
+            <div className="tech-icon">
                 <img src="" alt="upl"/>
             </div>
                 <img src="./programmer.png" alt="u"/>
@@ -29,12 +29,12 @@ const Hero = () => {
             <div className="tech-icon">
                 <img src="./java.png" alt="tech-icon" />
             </div>
-            <div className="tech-icon">
+            {/* <div className="tech-icon">
                 <img src="./sql.png" alt="tech-icon" />
-            </div>
-            <div className="tech-icon">
+            </div> */}
+            {/* <div className="tech-icon">
                 <img src="./php.png" alt="tech-icon" />
-            </div>
+            </div> */}
         </div>
 
     </div>
