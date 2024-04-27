@@ -6,9 +6,10 @@ const Skills = () => {
         <h5>Technical Proficiency</h5>
 
         <div className="skills-content"></div>
+        <div className="skills">
 
-        <div className="skills"></div>
-        
+        </div>
+
         <div className="skills-info"></div>
     </section>
   )
