@@ -39,16 +39,16 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Imran. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://www.facebook.com/profile.php?id=100078345110130" className="text-gray-400 hover:text-white">
               <FaFacebook />
             </a>
             <a href="#" className="text-gray-400 hover:text-white">
               <FaTwitter />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://www.linkedin.com/in/imran-idrees/" className="text-gray-400 hover:text-white">
               <FaLinkedin />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/Imranidrees1234" className="text-gray-400 hover:text-white">
               <FaGithub />
             </a>
           </div>
