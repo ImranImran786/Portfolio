@@ -14,7 +14,7 @@ const Contact = () => {
             <div className='mb-4 mt-8'>
                 <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
                 <a href="mailto:youremail@example.com" className='hover:underline'>
-                    imranidrees053@exmple.com
+                    imranidrees053@gmail.com
                 </a>
             </div>
             <div className='mb-4'>
