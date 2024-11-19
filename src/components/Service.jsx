@@ -21,16 +21,6 @@ const services = [
     title: "Full-Stack Development",
     description: "Combining both frontend and backend development skills.",
   },
-  {
-    id: 5,
-    title: "Content Writing",
-    description: "Writing content for your business and companies.",
-  },
-  {
-    id: 6,
-    title: "Digital Marketing",
-    description: "Promote your business with our digital marketing team.",
-  },
 ];
 const Service = () => {
   return (
